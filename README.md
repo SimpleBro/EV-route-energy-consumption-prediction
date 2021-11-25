@@ -1,5 +1,5 @@
 # Electric vehicle energy consumption prediction model analysis
-My first interaction with Python was during my Masters degree in Intelligent Transport Systems at the UNIZG Faculty of Traffic Sciences.
+My first interaction with Python was during my Masters degree in Intelligent Transport Systems at the UNIZG Faculty of Transport and Traffic Sciences.
 On the course "Data Mining" we were tasked to pick out a large data set and either conduct a prediction or a clasification on it.
 Thus this project was made with the aim of predicting electric vehicle route energy consumption using Polynominal MLR / Decision Tree / MLR.
 
